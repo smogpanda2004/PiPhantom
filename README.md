@@ -14,17 +14,7 @@ The system utilizes a three-tiered edge-computing pipeline engineered for zero-l
 2. **Edge-AI Layer (Raspberry Pi 5):** A centralized Python engine calculates rolling statistical variance (![][image1]) and runs an unsupervised **Isolation Forest** model to differentiate human movement from environmental noise.  
 3. **Visualization Layer (React Dashboard):** A hardware-accelerated, high-DPI "Glassmorphism" interface that renders live coordinates and tracking "heat" blobs at 60 FPS.
 
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## **📊 Key Performance Metrics**
+**📊 Key Performance Metrics**
 
 Validated inside a ![][image2] high-noise server environment:
 
